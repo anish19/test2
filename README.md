@@ -1,4 +1,4 @@
 test2
 =====
 
-My test code for Android
+Contains my random test code for Android.
